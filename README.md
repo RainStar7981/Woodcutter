@@ -1,7 +1,9 @@
 # Woodcutter
+
 A Minecraft datapack that let the stonecutter cut wooden things
 
 ## 添加的配方
+
 - 木头、菌核
 - 去皮木头、去皮菌核
 - 原木、菌柄
