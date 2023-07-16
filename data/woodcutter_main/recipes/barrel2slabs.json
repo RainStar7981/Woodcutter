@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-      "item": "minecraft:barrel"
-    },
-    "result": "minecraft:oak_slabs",
-    "count": 14
-  }
