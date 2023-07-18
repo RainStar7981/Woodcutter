@@ -3,6 +3,6 @@
   "ingredient": {
     "item": "minecraft:warped_stairs"
   },
-  "result": "minecraft:warped_slabs",
+  "result": "minecraft:warped_slab",
   "count": 2
 }
