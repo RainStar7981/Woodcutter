@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 45,
-    "description": "§aWoodcutter §bv1.0.2 for 1.21\n§7by RainStar7981",
+    "pack_format": 48,
+    "description": "§aWoodcutter §bv1.0.3 for 1.21\n§7by RainStar7981",
     "supported_formats": {
-      "min_inclusive": 45,
+      "min_inclusive": 48,
       "max_inclusive": 70
     }
   }
