@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:jungle_hanging_sign"
   },
-  "result": "minecraft:stripped_jungle_log",
-  "count": 2
+  "result": {
+    "id": "minecraft:stripped_jungle_log",
+    "count": 2
+  }
 }

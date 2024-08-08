@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:crimson_hanging_sign"
   },
-  "result": "minecraft:stripped_crimson_log",
-  "count": 2
+  "result": {
+    "id": "minecraft:stripped_crimson_log",
+    "count": 2
+  }
 }

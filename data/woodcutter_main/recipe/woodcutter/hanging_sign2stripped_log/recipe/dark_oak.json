@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:dark_oak_hanging_sign"
   },
-  "result": "minecraft:stripped_dark_oak_log",
-  "count": 2
+  "result": {
+    "id": "minecraft:stripped_dark_oak_log",
+    "count": 2
+  }
 }
