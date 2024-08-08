@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:mangrove_fence_gate"
   },
-  "result": "minecraft:mangrove_planks",
-  "count": 4
+  "result": {
+    "id": "minecraft:mangrove_planks",
+    "count": 4
+  }
 }

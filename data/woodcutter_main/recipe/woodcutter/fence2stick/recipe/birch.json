@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:birch_fence"
   },
-  "result": "minecraft:stick",
-  "count": 10
+  "result": {
+    "id": "minecraft:stick",
+    "count": 10
+  }
 }
