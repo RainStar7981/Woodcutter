@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:warped_hanging_sign"
   },
-  "result": "minecraft:stripped_warped_log",
-  "count": 2
+  "result": {
+    "id": "minecraft:stripped_warped_log",
+    "count": 2
+  }
 }

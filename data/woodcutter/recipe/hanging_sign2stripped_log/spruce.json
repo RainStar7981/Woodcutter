@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:spruce_hanging_sign"
   },
-  "result": "minecraft:stripped_spruce_log",
-  "count": 2
+  "result": {
+    "id": "minecraft:stripped_spruce_log",
+    "count": 2
+  }
 }
