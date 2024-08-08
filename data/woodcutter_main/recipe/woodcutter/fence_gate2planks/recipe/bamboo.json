@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:bamboo_fence_gate"
   },
-  "result": "minecraft:bamboo_planks",
-  "count": 4
+  "result": {
+    "id": "minecraft:bamboo_planks",
+    "count": 4
+  }
 }
