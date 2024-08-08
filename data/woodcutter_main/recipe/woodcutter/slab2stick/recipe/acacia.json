@@ -3,6 +3,5 @@
   "ingredient": {
     "item": "minecraft:acacia_slab"
   },
-  "result": "minecraft:stick",
-  "count": 1
+  "result": "minecraft:stick"
 }
