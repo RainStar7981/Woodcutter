@@ -3,6 +3,7 @@
   "ingredient": {
     "item": "minecraft:spruce_slab"
   },
-  "result": "minecraft:spruce_pressure_plate",
-  "count": 1
+  "result": {
+    "id": "minecraft:spruce_pressure_plate"
+  }
 }

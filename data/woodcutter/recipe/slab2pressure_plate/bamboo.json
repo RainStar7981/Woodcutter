@@ -3,6 +3,7 @@
   "ingredient": {
     "item": "minecraft:bamboo_slab"
   },
-  "result": "minecraft:bamboo_pressure_plate",
-  "count": 1
+  "result": {
+    "id": "minecraft:bamboo_pressure_plate"
+  }
 }

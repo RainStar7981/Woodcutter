@@ -3,6 +3,7 @@
   "ingredient": {
     "item": "minecraft:jungle_stairs"
   },
-  "result": "minecraft:jungle_planks",
-  "count": 1
+  "result": {
+    "id": "minecraft:jungle_planks"
+  }
 }
