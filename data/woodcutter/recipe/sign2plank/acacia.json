@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:acacia_sign"
   },
-  "result": "minecraft:acacia_planks",
-  "count": 2
+  "result": {
+    "id": "minecraft:acacia_planks",
+    "count": 2
+  }
 }
