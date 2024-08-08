@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "woodcutter:logs_and_woods/cherry"
+  },
+  "result": {
+    "id": "minecraft:cherry_planks",
+    "count": 4
+  }
+}

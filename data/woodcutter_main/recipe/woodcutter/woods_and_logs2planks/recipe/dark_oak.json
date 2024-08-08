@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "tag": "woodcutter_main:logs_and_woods/dark_oak"
-  },
-  "result": "minecraft:dark_oak_planks",
-  "count": 4
-}
