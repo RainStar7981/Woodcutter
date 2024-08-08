@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:jungle_pressure_plate"
+  },
+  "result": {
+    "id": "minecraft:jungle_slab"
+  }
+}

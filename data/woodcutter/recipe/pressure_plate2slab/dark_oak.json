@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:dark_oak_pressure_plate"
+  },
+  "result": {
+    "id": "minecraft:dark_oak_slab"
+  }
+}

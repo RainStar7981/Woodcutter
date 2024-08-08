@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:bamboo_pressure_plate"
+  },
+  "result": {
+    "id": "minecraft:bamboo_slab"
+  }
+}
