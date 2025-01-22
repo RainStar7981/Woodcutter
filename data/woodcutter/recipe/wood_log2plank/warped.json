@@ -1,7 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "tag": "woodcutter:logs_and_woods/warped"
+    "tag": "#woodcutter:logs_and_woods/warped"
   },
   "result": {
     "id": "minecraft:warped_planks",

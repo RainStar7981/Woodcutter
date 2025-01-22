@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "tag": "woodcutter:logs_and_woods/acacia"
-  },
+  "ingredient": "#woodcutter:logs_and_woods/acacia",
   "result": {
     "id": "minecraft:acacia_planks",
     "count": 4

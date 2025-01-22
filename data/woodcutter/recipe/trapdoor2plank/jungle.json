@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:jungle_trapdoor"
-  },
+  "ingredient": "minecraft:jungle_trapdoor",
   "result": {
     "id": "minecraft:jungle_planks",
     "count": 3

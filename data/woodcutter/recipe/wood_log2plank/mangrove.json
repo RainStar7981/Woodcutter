@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "tag": "woodcutter:logs_and_woods/mangrove"
-  },
+  "ingredient": "#woodcutter:logs_and_woods/mangrove",
   "result": {
     "id": "minecraft:mangrove_planks",
     "count": 4

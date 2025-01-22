@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "tag": "woodcutter:logs_and_woods/birch"
-  },
+  "ingredient": "#woodcutter:logs_and_woods/birch",
   "result": {
     "id": "minecraft:birch_planks",
     "count": 4

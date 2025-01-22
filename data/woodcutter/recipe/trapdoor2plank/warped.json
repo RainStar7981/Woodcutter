@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:warped_trapdoor"
-  },
+  "ingredient": "minecraft:warped_trapdoor",
   "result": {
     "id": "minecraft:warped_planks",
     "count": 3
