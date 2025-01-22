@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:warped_slab"
-  },
+  "ingredient": "minecraft:warped_slab",
   "result": {
     "id": "minecraft:warped_pressure_plate"
   }

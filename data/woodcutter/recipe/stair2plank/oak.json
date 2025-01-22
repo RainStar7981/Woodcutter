@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:oak_stairs"
-  },
+  "ingredient": "minecraft:oak_stairs",
   "result": {
     "id": "minecraft:oak_planks"
   }

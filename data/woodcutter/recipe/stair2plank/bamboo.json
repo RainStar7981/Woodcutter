@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:bamboo_stairs"
-  },
+  "ingredient": "minecraft:bamboo_stairs",
   "result": {
     "id": "minecraft:bamboo_planks"
   }
