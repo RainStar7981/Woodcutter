@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:cherry_pressure_plate"
-  },
+  "ingredient": "minecraft:cherry_pressure_plate",
   "result": {
     "id": "minecraft:cherry_slab"
   }

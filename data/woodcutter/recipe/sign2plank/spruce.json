@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:spruce_sign"
-  },
+  "ingredient": "minecraft:spruce_sign",
   "result": {
     "id": "minecraft:spruce_planks",
     "count": 2
