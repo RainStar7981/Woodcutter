@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "tag": "minecraft:wooden_pressure_plates"
-  },
+  "ingredient": "#minecraft:wooden_pressure_plates",
   "result": {
     "id": "minecraft:stick"
   }

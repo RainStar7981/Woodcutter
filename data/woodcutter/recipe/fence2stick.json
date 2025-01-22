@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "tag": "minecraft:wooden_fences"
-  },
+  "ingredient": "#minecraft:wooden_fences",
   "result": {
     "id": "minecraft:stick",
     "count": 10
