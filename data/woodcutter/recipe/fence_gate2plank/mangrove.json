@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:mangrove_fence_gate"
-  },
+  "ingredient": "minecraft:mangrove_fence_gate",
   "result": {
     "id": "minecraft:mangrove_planks",
     "count": 4

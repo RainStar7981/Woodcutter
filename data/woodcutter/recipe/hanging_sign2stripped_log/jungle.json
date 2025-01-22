@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:jungle_hanging_sign"
-  },
+  "ingredient": "minecraft:jungle_hanging_sign",
   "result": {
     "id": "minecraft:stripped_jungle_log",
     "count": 2

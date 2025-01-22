@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:birch_fence"
-  },
+  "ingredient": "minecraft:birch_fence",
   "result": {
     "id": "minecraft:birch_fence_gate"
   }

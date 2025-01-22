@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:jungle_fence"
-  },
+  "ingredient": "minecraft:jungle_fence",
   "result": {
     "id": "minecraft:jungle_fence_gate"
   }
