@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:spruce_button"
-  },
+  "ingredient": "minecraft:spruce_button",
   "result": {
     "id": "minecraft:spruce_planks"
   }
