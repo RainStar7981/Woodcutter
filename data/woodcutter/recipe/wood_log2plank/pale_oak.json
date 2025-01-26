@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#woodcutter:logs_and_woods/pale_oak",
+  "result": {
+    "id": "minecraft:pale_oak_planks",
+    "count": 4
+  }
+}
