@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "tag": "#woodcutter:logs_and_woods/warped"
-  },
+  "ingredient": "#woodcutter:logs_and_woods/warped",
   "result": {
     "id": "minecraft:warped_planks",
     "count": 4
